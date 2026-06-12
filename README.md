@@ -1,4 +1,8 @@
+## Hi there 👋
 
+🛡️ I'm a **BTech Student**, **Backend developer** and **DSA**   
+ - 📫 Reach me at **shriharik571@gmail.com**<h3 align="left">Connect with me:</h3><p align="left">  <a target="_blank" style="margin-right: 10px;">
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shrihari-kulkarni-aa57b931b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shriharik571@gmail.com) 
 
