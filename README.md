@@ -11,6 +11,6 @@
 
 ---
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Prem-23-12&label=Profile%20views&color=ff8c00&style=flat-square" alt="Prem-23-12" /> 
+  <img src="https://komarev.com/ghpvc/?username=Prem-23-12&label=Profile%20views&color=ff8c00&style=flat-square" alt="Shrihari-Kulkarni04" /> 
 </p>
 
