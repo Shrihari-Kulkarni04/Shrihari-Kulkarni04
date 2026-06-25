@@ -35,20 +35,20 @@
  </tr>  
  <tr>    
   <td>      
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrihari-Kulkarni04&theme=2077" />    
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrihari-Kulkarni04&theme=2077" />    
   </td>  
  </tr>
 </table>
 <table>
  <tr> 
   <td>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrihari-Kulkarni04&theme=aura_dark" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrihari-Kulkarni04&theme=aura_dark"/>
   </td>
   <td>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrihari-Kulkarni04&theme=aura_dark" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrihari-Kulkarni04&theme=aura_dark"/>
   </td>
  </tr>
 </table>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Shrihari-Kulkarni04&label=Profile%20views&color=ff8c00&style=flat-square" alt="Shrihari-Kulkarni04" /> 
+  <img src="https://komarev.com/ghpvc/?username=Shrihari-Kulkarni04&label=Profile%20views&color=ff8c00&style=flat-square" alt="Shrihari-Kulkarni04"/> 
 </p>
