@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrihari H Kulkarni</h1>
-
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400">
 </p>
